@@ -78,37 +78,55 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Sterling Refrigeration",
+        "title": "Mechanical Engineer",
+        "years": "08.2021 - 11.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "Autocad"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Plant 3D",
+          "PID",
+          "Layouts"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US Army",
+        "title": "Executive Officer",
+        "years": "11.2019 - 05.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Leadership"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Logistics",
+          "SAP",
+          "Task organization"
+        ]
+      },
+      {
+        "company": "US Army",
+        "title": "Supervisor",
+        "years": "12.2017 - 10.2019",
+        "mainTech": [
+          "Leadership"
+        ],
+        "technologies": [
+          "Logistics",
+          "SAP",
+          "Task organization"
+        ]
+      },
+      {
+        "company": "US Army",
+        "title": "Operations Specialist",
+        "years": "05.2017 - 11.2017",
+        "mainTech": [
+          "Leadership"
+        ],
+        "technologies": [
+          "Logistics",
+          "SAP",
+          "Task organization"
         ]
       }
     ]
