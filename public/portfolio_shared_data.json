@@ -1,20 +1,20 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Dennis DeVries",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/DennisDeV7",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/dennis-devries/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "mugShot.JPG"
     },
     "skills": {
       "icons": [
